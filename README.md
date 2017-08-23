@@ -1,6 +1,4 @@
-# CMS built with Ruby on rails, Angular 4, and Twitter Bootstrap 3
-
-Wordpress for Rubyist
+# Wordpress for Rubyist
 
 ### Software Requirements
   * NodeJs v6.10.3
