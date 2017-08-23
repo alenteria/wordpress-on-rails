@@ -1,6 +1,6 @@
-# Bootstrap Ruby on rails & Angular 4
+# CMS built with Ruby on rails, Angular 4, and Twitter Bootstrap 3
 
-Starter app for ruby on rails and angular 4
+Wordpress for Rubyist
 
 ### Software Requirements
   * NodeJs v6.10.3
