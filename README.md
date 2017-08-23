@@ -1,5 +1,5 @@
 # Wordpress for Rubyist
-  - ongoing project
+  -- ongoing project
 
 ### Software Requirements
   * NodeJs v6.10.3
